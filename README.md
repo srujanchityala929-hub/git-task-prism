@@ -1,7 +1,7 @@
 # Git and Markdown Basics
 
 ## What is Git?
-Git is a version control system used to track changes in code. It helps developers manage versions of a project and collaborate with others.
+Git is a version control system used to track changes in code.It helps developers manage versions of a project and collaborate with others.
 
 ## How to Push Code to GitHub
 1. Initialize repository
