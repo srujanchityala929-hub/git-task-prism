@@ -1,3 +1,2 @@
-/srujan
-    hello.py
-README.md
+print("Hello Guys")
+print("My name is Srujan")
